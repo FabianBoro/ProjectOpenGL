@@ -1,0 +1,2 @@
+E:\Semester 5\OpenGL\ProjekOpenGL\Debug\ProjekOpenGL.exe
+E:\Semester 5\OpenGL\ProjekOpenGL\Debug\ProjekOpenGL.pdb
